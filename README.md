@@ -1,5 +1,4 @@
 1. # Write a programme where you take the input from user and after that it gives you the greatest element from that given List.
-
 def gret():
     x = int(input("Enter the lenght of the list: "))
 
